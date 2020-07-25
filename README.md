@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/JonanthaW/JonanthaW/blob/master/compilado.gif" alt="Compilado com sucesso" width="350"/></p>
+<p align="center"><img src="https://github.com/JonanthaW/JonanthaW/blob/master/compilado.gif" alt="Compilado com sucesso" width="550"/></p>
 
 <h1 align="center">Oi, tudo beleza?</h1>
 
