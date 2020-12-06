@@ -10,10 +10,13 @@
 </ul>
 
 <a href="https://github.com/JonanthaW/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JonanthaW&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JonanthaW&show_icons=true" />
 </a>
 <a href="https://github.com/JonanthaW/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonanthaW" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonanthaW" />
+</a>
+<a href="https://github.com/JonanthaW/convoychat">
+  <img src="https://github-profile-trophy.vercel.app/?username=JonanthaW&theme=flat" />
 </a>
 <!--
 **JonanthaW/JonanthaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
