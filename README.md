@@ -9,12 +9,14 @@
  <li>Meu portfólio você encontra aqui mesmo, em <b><a href="https://jonanthaw.github.io/" target="_blank">https://jonanthaw.github.io/</a> </b>:octocat: </li>
 </ul>
 
+<div align="justify">
 <a href="https://github.com/JonanthaW/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JonanthaW&show_icons=true" />
 </a>
 <a href="https://github.com/JonanthaW/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonanthaW" />
 </a>
+                                                                                     </div>
 <!--
 **JonanthaW/JonanthaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
