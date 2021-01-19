@@ -10,7 +10,7 @@
 </ul>
 
 
-**Languages and Tools:**
+**Linguagens e ferramentas:**
 
 <p align="center">
 
