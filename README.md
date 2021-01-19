@@ -10,7 +10,7 @@
 </ul>
 
 
-**Linguagens e ferramentas:**
+**:wrench: Linguagens e ferramentas:**
 
 <p align="center">
 
@@ -23,6 +23,8 @@
 
   </div>
   </p>
+  
+**:star: Status do Github:**
 
 <div align="justify">
 <a href="https://github.com/JonanthaW/github-readme-stats">
