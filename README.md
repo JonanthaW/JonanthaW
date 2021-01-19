@@ -24,8 +24,6 @@
   </div>
   </p>
 
- ---
-
 <div align="justify">
 <a href="https://github.com/JonanthaW/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JonanthaW&show_icons=true" />
