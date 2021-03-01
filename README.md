@@ -31,10 +31,10 @@
                                                                                      
  ## Trivia:
 
-- 🔭 No momento estou apenas estudando JS e PhP.
-- 🌱 No futuro planejo iniciar em ReactJS e ReactNative.
+- 🔭 No momento estou apenas estudando JS.
+- 🌱 No futuro planejo iniciar em React.
 - 💬 StackOverFlow salvando minha vida desde sempre.
-- ⚡ Fato rápido: EletroMusic >> Resto.
+- ⚡ Fato: EletroMusic >> Resto.
 
 <!--
 **JonanthaW/JonanthaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
