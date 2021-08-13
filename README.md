@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/JonanthaW/JonanthaW/blob/master/compilado.gif" alt="Compilado com sucesso" width="550"/></p>
 
 <h1 align="center">Oi, tudo beleza? :brazil:</h1>
-<p>Comecei minha carreira na área da programação no comecinho de 2020, especificamente com <b>desenvolvimento web</b>. Atualmente estou cursando <b>EAD/ADS</b> e com certeza seguirei este meu caminho ninja de ser. :boom:</p>
+<p>Comecei minha carreira na área da programação no comecinho de 2020, especificamente com <b>desenvolvimento web</b>. Atualmente estou cursando <b>EAD/ADS</b>.</p>
 
 
 **:wrench: Linguagens e ferramentas:**
@@ -28,13 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonanthaW" />
 </a>
                                                                                      </div>
-                                                                                     
- ## Trivia:
-
-- 🔭 No momento estou apenas estudando JS.
-- 🌱 No futuro planejo iniciar em React.
-- 💬 StackOverFlow salvando minha vida desde sempre.
-- ⚡ Fato: EletroMusic >> Resto.
+                                                                                    
 
 <!--
 **JonanthaW/JonanthaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
