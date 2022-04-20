@@ -1,26 +1,17 @@
 <p align="center"><img src="https://github.com/JonanthaW/JonanthaW/blob/master/compilado.gif" alt="Compilado com sucesso" width="550"/></p>
 
 <h1 align="center">Oi, tudo beleza? :brazil:</h1>
-<p>Comecei minha carreira na área da programação no comecinho de 2020, especificamente com <b>desenvolvimento web</b>. Atualmente estou cursando <b>EAD/ADS</b>.</p>
+<p align="center">Apaixonado por tecnologia e por seus derivados. Apenas um eterno aprendiz. </br>Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.</p>
 
-
-**:wrench: Linguagens e ferramentas:**
-
-<p align="center">
-
-  <div align="center" display="inline">
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-
+  <div align="center">
+    <h4>:star: Social Media</h4>
+    <a href="https://www.linkedin.com/in/jonanthaw/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+    <a href="https://www.instagram.com/jonn_jpg/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </div>
-  </p>
-  
-**:star: Status do Github:**
+
 
 <div align="justify">
+ <h4 align="center">:book: Status do Github</h4></br>
 <a href="https://github.com/JonanthaW/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JonanthaW&show_icons=true" />
 </a>
