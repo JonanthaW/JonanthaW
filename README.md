@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/JonanthaW/JonanthaW/blob/master/compilado.gif" alt="Compilado com sucesso" width="550"/></p>
 
 <h1 align="center">Oi, tudo beleza? :brazil:</h1>
-<p align="center">Apaixonado por tecnologia e por seus derivados. Apenas um eterno aprendiz. </br>Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.</p>
+<p align="center">Apaixonado por tecnologia e por seus derivados. Apenas um eterno aprendiz.</p>
 
   <div align="center">
     <h4>:star: Social Media</h4>
