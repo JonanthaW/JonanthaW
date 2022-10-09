@@ -6,7 +6,6 @@
   <div align="center">
     <h4>:star: Social Media</h4>
     <a href="https://www.linkedin.com/in/jonanthaw/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-    <a href="https://www.instagram.com/jonn_jpg/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </div>
 
 
