@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github.com/JonanthaW/JonanthaW/blob/master/compilado.gif#gh-light-mode-only" alt="Compilado com sucesso" width="550"/></p>
+<p align="center"><img src="https://github.com/JonanthaW/JonanthaW/blob/master/logo.jpg#gh-dark-mode-only" alt="Compilado com sucesso" width="200"/></p>
 
 <h1 align="center">Oi, tudo beleza? :brazil:</h1>
 <p align="center">Apaixonado por tecnologia e por seus derivados. Apenas um eterno aprendiz.</p>
